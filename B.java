@@ -27,4 +27,8 @@ public class B {
     public float ff() {
         return 3.14;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }

@@ -27,4 +27,8 @@ public class J extends B {
     public Object pp() {
         return this;
     }
+
+    public long ac() {
+        return 111;
+    }
 }

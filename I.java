@@ -27,4 +27,8 @@ public class I extends B {
     public long dd() {
         return 100500;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
