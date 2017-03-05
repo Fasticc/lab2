@@ -23,4 +23,8 @@ public class J extends B {
     public int cc() {
         return 42;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
