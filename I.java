@@ -11,12 +11,4 @@ public class I extends B {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
-
-    public int cc() {
-        return 13;
-    }
-
-    public Object pp() {
-        return this;
-    }
 }

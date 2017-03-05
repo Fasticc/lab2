@@ -11,12 +11,4 @@ public class J extends B {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
-
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
 }
