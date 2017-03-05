@@ -11,4 +11,8 @@ public class B {
     public byte oo() {
         return 2;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
