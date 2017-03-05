@@ -15,4 +15,8 @@ public class J extends B {
     public void ab() {
         System.out.println("\n");
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

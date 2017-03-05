@@ -15,4 +15,8 @@ public class B {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
