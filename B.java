@@ -23,4 +23,8 @@ public class B {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
