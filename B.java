@@ -11,16 +11,4 @@ public class B {
     public byte oo() {
         return 2;
     }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
-
-    public void aa() {
-        System.out.println("void aa");
-    }
 }
