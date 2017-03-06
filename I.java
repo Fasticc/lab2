@@ -15,4 +15,8 @@ public class I extends B {
     public int cc() {
         return 13;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
