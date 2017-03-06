@@ -19,4 +19,8 @@ public class J extends B {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public int cc() {
+        return 42;
+    }
 }
