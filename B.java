@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private long k = 4321;
 
@@ -16,12 +16,12 @@ public class B {
         return return getClass().getClassLoader();
     }
 
-    public void bb() {
-        System.out.println(getClass().getName());
+    public void aa() {
+        System.out.println("Hello world!");
     }
 
-    public void aa() {
-        System.out.println("void aa");
+    public void bb() {
+        System.out.println(getClass().getName());
     }
 
     public float ff() {
@@ -32,7 +32,19 @@ public class B {
         return new java.util.ArrayList<String>();
     }
 
-    public String kk() {
-        return "No";
+    public Object rr() {
+        return null;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }

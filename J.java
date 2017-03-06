@@ -12,6 +12,10 @@ public class J extends B {
         return new java.util.LinkedList<Integer>;
     }
 
+    public Object pp() {
+        return this;
+    }
+
     public void ab() {
         System.out.println("\n");
     }
@@ -24,15 +28,27 @@ public class J extends B {
         return 42;
     }
 
-    public Object pp() {
-        return this;
-    }
-
     public long ac() {
         return 111;
     }
 
-    public Object rr() {
-        return null;
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public double ad() {
+        return 11.09;
     }
 }
