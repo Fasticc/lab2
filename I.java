@@ -51,4 +51,8 @@ public class I extends B {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public long dd() {
+        return 100500;
+    }
 }

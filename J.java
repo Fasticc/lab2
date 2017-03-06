@@ -1,4 +1,4 @@
-public class J extends B {
+­­public class J extends B {
 
     private int i = 1;
 
@@ -28,6 +28,7 @@ public class J extends B {
         return 42;
     }
 
+
     public long ac() {
         return 111;
     }
@@ -50,5 +51,7 @@ public class J extends B {
 
     public double ad() {
         return 11.09;
+    public Object pp() {
+        return this;
     }
 }

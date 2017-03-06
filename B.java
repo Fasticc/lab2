@@ -47,4 +47,8 @@ public class B extends null {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
